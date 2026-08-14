@@ -1,0 +1,236 @@
+{
+  "active": "r1",
+  "realms": [
+    {
+      "id": "r1",
+      "name": "Work",
+      "state": {
+        "seq": 109,
+        "player": {
+          "name": "Alexander",
+          "xp": 1025,
+          "level": 9,
+          "sp": 0,
+          "spent": 8
+        },
+        "muted": false,
+        "quests": [
+          {
+            "id": "q1",
+            "title": "Log your first real quest",
+            "type": "side",
+            "xp": 25,
+            "skills": [],
+            "note": "Add something you are actually working on today, then turn this one in.",
+            "status": "done",
+            "created": "2026-08-14T18:34:01.492Z",
+            "completed": "2026-08-14T18:43:22.895Z"
+          },
+          {
+            "id": "2shlmf",
+            "title": "SOP",
+            "type": "main",
+            "xp": 1000,
+            "skills": [],
+            "note": "",
+            "status": "done",
+            "created": "2026-08-14T18:41:51.318Z",
+            "completed": "2026-08-14T18:41:52.660Z"
+          },
+          {
+            "id": "2vaof2",
+            "title": "Model 4.5\" LTC and BTC Threads for Gerry",
+            "type": "side",
+            "xp": 250,
+            "skills": [],
+            "note": "",
+            "status": "active",
+            "created": "2026-08-14T18:45:15.616Z",
+            "completed": null
+          },
+          {
+            "id": "2w1a1x",
+            "title": "Print LTC and BTC Threads",
+            "type": "side",
+            "xp": 250,
+            "skills": [],
+            "note": "",
+            "status": "active",
+            "created": "2026-08-14T18:45:27.739Z",
+            "completed": null
+          },
+          {
+            "id": "2x6t87",
+            "title": "Review all SOP Documents",
+            "type": "main",
+            "xp": 500,
+            "skills": [
+              "s10"
+            ],
+            "note": "",
+            "status": "active",
+            "created": "2026-08-14T18:45:41.379Z",
+            "completed": null
+          },
+          {
+            "id": "2ztozu",
+            "title": "Upload all varigate SOP Documents",
+            "type": "main",
+            "xp": 50,
+            "skills": [
+              "s10",
+              "s6",
+              "2yocxp",
+              "s11"
+            ],
+            "note": "",
+            "status": "active",
+            "created": "2026-08-14T18:46:01.596Z",
+            "completed": null
+          },
+          {
+            "id": "30crje",
+            "title": "Complete a T&D",
+            "type": "main",
+            "xp": 100,
+            "skills": [
+              "2tp0sf"
+            ],
+            "note": "",
+            "status": "active",
+            "created": "2026-08-14T18:46:19.780Z",
+            "completed": null
+          }
+        ],
+        "repeats": [
+          {
+            "id": "r2",
+            "title": "Finish an animation",
+            "xp": 100,
+            "skills": [
+              "s2"
+            ],
+            "note": "",
+            "count": 0
+          },
+          {
+            "id": "2uln2a",
+            "title": "Complete a laser program",
+            "xp": 25,
+            "skills": [
+              "2tp0sf"
+            ],
+            "note": "",
+            "count": 0
+          }
+        ],
+        "cats": [
+          {
+            "id": "c1",
+            "name": "The Forge"
+          },
+          {
+            "id": "c2",
+            "name": "The Field"
+          },
+          {
+            "id": "c3",
+            "name": "The Codex"
+          },
+          {
+            "id": "c4",
+            "name": "The Guild Hall"
+          }
+        ],
+        "skills": [
+          {
+            "id": "s1",
+            "cat": "c1",
+            "name": "Blender",
+            "rank": 1
+          },
+          {
+            "id": "s2",
+            "cat": "c1",
+            "name": "Animation",
+            "rank": 1
+          },
+          {
+            "id": "s3",
+            "cat": "c1",
+            "name": "Rendering",
+            "rank": 1
+          },
+          {
+            "id": "s4",
+            "cat": "c2",
+            "name": "Fusion 360",
+            "rank": 0
+          },
+          {
+            "id": "s5",
+            "cat": "c2",
+            "name": "Downhole Tools",
+            "rank": 0
+          },
+          {
+            "id": "s6",
+            "cat": "c2",
+            "name": "Well Data",
+            "rank": 0
+          },
+          {
+            "id": "s7",
+            "cat": "c3",
+            "name": "Python",
+            "rank": 0
+          },
+          {
+            "id": "s8",
+            "cat": "c3",
+            "name": "Data Analysis",
+            "rank": 1
+          },
+          {
+            "id": "s9",
+            "cat": "c3",
+            "name": "AI Tooling",
+            "rank": 0
+          },
+          {
+            "id": "s10",
+            "cat": "c4",
+            "name": "SOP Writing",
+            "rank": 1
+          },
+          {
+            "id": "s11",
+            "cat": "c4",
+            "name": "Reporting",
+            "rank": 0
+          },
+          {
+            "id": "s12",
+            "cat": "c4",
+            "name": "Training Others",
+            "rank": 0
+          },
+          {
+            "id": "2tp0sf",
+            "cat": "c1",
+            "name": "Programming",
+            "rank": 1
+          },
+          {
+            "id": "2yocxp",
+            "cat": "c1",
+            "name": "Engineering",
+            "rank": 2
+          }
+        ],
+        "curve": 2,
+        "style": "medieval"
+      }
+    }
+  ]
+}

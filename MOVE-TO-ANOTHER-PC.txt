@@ -1,0 +1,33 @@
+HOW TO MOVE QUEST LOG (APP + YOUR PROGRESS) TO ANOTHER COMPUTER
+================================================================
+
+You need exactly TWO files:
+
+  1. QuestLog.html          <- the app itself (this folder)
+  2. questlog-backup.json   <- your progress (all realms: Work, Baking, ...)
+
+IMPORTANT: The .html file does NOT contain your progress. Progress is
+stored inside the browser you have been using the app in. That is why
+you must export the backup file yourself, from that same browser:
+
+ON THIS PC (before you leave):
+  1. Open QuestLog.html in the browser you normally use it in
+     (the one that shows your real level and both realms).
+  2. Click the realm button in the top-right (it says "Work" or your
+     current realm name with a little arrow).
+  3. Click "Download backup file". Save questlog-backup.json into this
+     Work XP folder.
+  4. Email / Google Drive BOTH files.
+
+ON THE OTHER PC:
+  1. Put QuestLog.html anywhere (Documents is fine) and double-click it.
+     It opens in the browser as a fresh, level-1 app.
+  2. Click the realm button (top-right) -> "Restore from backup"
+     -> pick questlog-backup.json.
+  3. Done. Both realms, levels, quests, skills and themes are back.
+
+FROM THEN ON:
+  The two computers each keep their own separate save. If you play on
+  both and want them in sync, the backup file is the courier: export on
+  one machine, restore on the other. Restore REPLACES what is on the
+  machine, so always restore the newer file onto the older one.
